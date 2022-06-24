@@ -15,6 +15,7 @@
    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Googleanalytics" width="45" height="55"/>
+  <img src="https://cdn.cdnlogo.com/logos/g/40/google-data-studio.svg" alt="Googledatastudio" width="45" height="55"/> 
 </p>
 
 
