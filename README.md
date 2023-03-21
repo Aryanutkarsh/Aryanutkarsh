@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/Aryanutkarsh">
-    <img src="20210824_221743_0000.png">
+    <img align="center" width="100" src="20210824_221743_0000.png">
   </a>
 </div>
 <br/>
