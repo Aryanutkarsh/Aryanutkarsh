@@ -3,8 +3,8 @@
 
 <br>
 <div align="center">
-  <a href="https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE?si=de917556f9844513">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  <a href="https://github.com/Aryanutkarsh">
+    <img src="20210824_221743_0000.png">
   </a>
 </div>
 <br/>
