@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aryan Utkarsh</h1>
-<h3 align="center">Learning & Understanding Data Science📖.</h3>
+
+<div align="center">
+  <a href="https://github.com/Aryanutkarsh">
+    <img src="Header profile.gif">
+  </a>
+</div>
+
 
 <br>
 <div align="center">
