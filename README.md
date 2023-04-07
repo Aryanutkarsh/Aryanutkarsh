@@ -9,7 +9,7 @@
 <br>
 <div align="Right">
   <a href="https://github.com/Aryanutkarsh">
-    <img align="right" width="239" src="20230408_002623.png">
+    <img align="right" width="500" src="20230408_002623.png">
   </a>
 </div>
 <br>
