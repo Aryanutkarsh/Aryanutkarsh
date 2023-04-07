@@ -7,12 +7,12 @@
 
 
 <br>
-<div align="center">
+<div align="Right">
   <a href="https://github.com/Aryanutkarsh">
-    <img align="center" width="100" src="20210824_221743_0000.png">
+    <img align="right" width="239" src="20230408_002623.png">
   </a>
 </div>
-<br/>
+<br>
 <h3 align="center">I can work with:</h3>
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55 >
