@@ -44,4 +44,4 @@
 </table>
 </div>
 
-<div align ="center"><img width="150%" src="https://raw.githubusercontent.com/Aryanutkarsh/Aryanutkarsh/output/github-contribution-grid-snake.gif"></div>
+<div align ="center"><img width="150%" src="https://raw.githubusercontent.com/Aryanutkarsh/Aryanutkarsh/output/github-contribution-grid-snake.svg"></div>
