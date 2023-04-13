@@ -32,7 +32,7 @@
 <div align=Center>
 <table>
     <td align="Left" width="600">
-<img src="https://github.com/Aryanutkarsh/Aryanutkarsh/blob/3c76ab6ff3daa31e4da01b4b5fabdb6a23f7d143/profile-3d-contrib/profile-night-view.svg">
+<img src="https://raw.githubusercontent.com/Aryanutkarsh/Aryanutkarsh/main/profile-3d-contrib/profile-night-view.svg">
 <br>
  </td>
   <td align="Center" width="600">
@@ -44,4 +44,4 @@
 </table>
 </div>
 
-<div align ="center"><img width="150%" src="https://github.com/Aryanutkarsh/Aryanutkarsh/blob/cf920a0b7360995a89b71aa7da906c5844225565/github-contribution-grid-snake.svg"></div>
+<div align ="center"><img width="150%" src="https://raw.githubusercontent.com/Aryanutkarsh/Aryanutkarsh/output/github-contribution-grid-snake.gif"></div>
