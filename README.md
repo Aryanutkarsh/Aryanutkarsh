@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://github.com/Aryanutkarsh">
-    <img src="Header profile.gif">
+    <img src="https://cdn.jsdelivr.net/gh/Aryanutkarsh/Aryanutkarsh/Header%20profile.gif">
   </a>
 </div>
 
 <br>
 <div align="Right">
   <a href="https://github.com/Aryanutkarsh">
-    <img align="right" width="400" src="20230408_002623.png">
+    <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/Aryanutkarsh/Aryanutkarsh/20230408_002623.png">
   </a>
 </div>
 <br>
@@ -39,7 +39,7 @@
  </td>
   <td align="Center" width="600">
 <a href="https://github.com/Aryanutkarsh">
-<img src = "cool.jpg" width = 400px>
+<img src = "https://cdn.jsdelivr.net/gh/Aryanutkarsh/Aryanutkarsh/cool.jpg" width = 400px>
 </a>
 <br>
 </td>
