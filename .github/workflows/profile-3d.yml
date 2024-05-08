@@ -1,7 +1,5 @@
 name: GitHub-Profile-3D-Contrib
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -14,6 +12,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
+        if: github.event_name == 'workflow_dispatch'
         run: |
           git config user.name Aryanutkarsh
           git config user.email aryanutkarsh2339@gmail.com
