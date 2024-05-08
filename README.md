@@ -27,7 +27,7 @@
 
 <p align="left">
   <a href="https://github.com/Aryanutkarsh">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Aryanutkarsh&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Aryanutkarsh&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanutkarsh&theme=gruvbox&hide_border=true" />
   </a>
 </p>
