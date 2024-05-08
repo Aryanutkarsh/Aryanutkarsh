@@ -14,8 +14,6 @@ jobs:
       - name: Commit & Push
         if: github.event_name == 'workflow_dispatch'
         run: |
-          git pull
-          git push
           git config user.name Aryanutkarsh
           git config user.email aryanutkarsh2339@gmail.com
           git add -A .
